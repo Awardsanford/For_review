@@ -1,1 +1,1 @@
-"Website examples written in React, jQuery, JavaScript & others" 
+Tenant application portal - WIP
